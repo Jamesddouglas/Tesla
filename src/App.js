@@ -13,7 +13,7 @@ function App() {
           Edit <code>src/App.js</code> testing.
         </p>
         <span>
-          <span>Learn </span>
+          <span>Learn LEARN LEARN </span>
           <a
             className="App-link"
             href="https://reactjs.org/"
@@ -47,7 +47,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            React Redux
+            REACT OR BE NON RESPONSIVE
           </a>
         </span>
       </header>
